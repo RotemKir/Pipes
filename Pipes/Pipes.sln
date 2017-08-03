@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes.Core", "Pipes.Core\Pipes.Core.csproj", "{A0605298-C648-4F88-8664-8F8687E60336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes.Core.Tests", "Pipes.Core.Tests\Pipes.Core.Tests.csproj", "{2D9A4307-709D-482F-94CC-ED380F22B4C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0605298-C648-4F88-8664-8F8687E60336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0605298-C648-4F88-8664-8F8687E60336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0605298-C648-4F88-8664-8F8687E60336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0605298-C648-4F88-8664-8F8687E60336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9A4307-709D-482F-94CC-ED380F22B4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9A4307-709D-482F-94CC-ED380F22B4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9A4307-709D-482F-94CC-ED380F22B4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9A4307-709D-482F-94CC-ED380F22B4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
